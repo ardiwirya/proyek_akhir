@@ -1,6 +1,6 @@
 # Resep Makanan
 
-**Resep Makanan**  - Aplikasi resep untuk submission kelas [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159). Rating submission Bintang 5⭐
+**Resep Makanan** - Aplikasi resep untuk submission kelas [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159). Rating submission Bintang 5⭐
 
 ## Sekilas
 
